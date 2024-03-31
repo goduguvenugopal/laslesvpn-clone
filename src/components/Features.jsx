@@ -12,7 +12,7 @@ const Features = () => {
           </div>
           <div className="col-12 col-md-6 mt-5">
             <div className="pt-5" style={{height:'414px'}}>
-                <h5 className="features-head ">We Provide Many Features You Can Use</h5>
+                <h5 className="features-head ">We Provide Many <br/>Features You Can Use</h5>
                 <h5 className="features-para">You can explore the features that we provide with fun and have their own functions each feature.</h5>
                  <div className="d-flex align-items-center">
                     <img src="/images/check.jpg" className="check-img" alt="check"/>
