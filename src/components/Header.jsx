@@ -37,7 +37,7 @@ const Header = () => {
           <div className="col-12 col-md-4">
             <div className="sub-head-card">
                 <div className="d-flex"> 
-               <img src="/images/user.jpg" className="user-img"/>
+               <img src="/images/user.jpg" className="user-img" alt=""/>
                <div  style={{height:'60px',width:'54px'}} className="">
                 <h5 className="rating-text">90+</h5>
                 <h5 className="servers-text">Users</h5>
@@ -48,7 +48,7 @@ const Header = () => {
           <div className="col-12 col-md-4">
             <div className="sub-head-card">
             <div className="d-flex"> 
-               <img src="/images/location.jpg" className="user-img"/>
+               <img src="/images/location.jpg" className="user-img" alt=""/>
                <div className=""  style={{height:'60px',width:'54px'}}>
                 <h5 className="rating-text">30+</h5>
                 <h5 className="servers-text">Locations</h5>
@@ -59,7 +59,7 @@ const Header = () => {
           <div className="col-12 col-md-4">
             <div className="sub-head-card" style={{borderRight:'none',borderBottom:'none'}}>
             <div className="d-flex"> 
-               <img src="/images/server.jpg" className="user-img"/>
+               <img src="/images/server.jpg" className="user-img" alt=""/>
                <div className=""  style={{height:'60px',width:'54px'}}>
                 <h5 className="rating-text">50+</h5>
                 <h5 className="servers-text">Servers</h5>

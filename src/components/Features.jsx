@@ -7,7 +7,7 @@ const Features = () => {
         <div className="row">
           <div className="col-12 col-md-6" >
             <div className="">
-              <img src="/images/illustration2.jpg" className="illustration2" />
+              <img src="/images/illustration2.jpg" className="illustration2" alt="" />
             </div>
           </div>
           <div className="col-12 col-md-6 mt-5">
@@ -19,15 +19,15 @@ const Features = () => {
                     <h5 className="feature-list">Powerfull online protection.</h5>
                  </div>
                  <div className="d-flex align-items-center">
-                    <img src="/images/check.jpg" className="check-img" alt="check"/>
+                    <img src="/images/check.jpg" className="check-img" alt="check1"/>
                     <h5 className="feature-list">Internet without borders.</h5>
                  </div>
                  <div className="d-flex align-items-center">
-                    <img src="/images/check.jpg" className="check-img" alt="check"/>
+                    <img src="/images/check.jpg" className="check-img" alt="check2"/>
                     <h5 className="feature-list">Supercharged VPN</h5>
                  </div>
                  <div className="d-flex align-items-center">
-                    <img src="/images/check.jpg" className="check-img" alt="check"/>
+                    <img src="/images/check.jpg" className="check-img" alt="check3"/>
                     <h5 className="feature-list">No specific time limits.</h5>
                  </div>
              

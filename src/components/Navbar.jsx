@@ -17,7 +17,7 @@ const Navbar = () => {
             className="navbar-brand d-flex align-items-center bg-dange"
             href="#"
           >
-            <img className="logo-img" src="/images/icon.jpg" />
+            <img className="logo-img" src="/images/icon.jpg" alt="" />
             <h5 className="vpn-name">
               Lasles<span className="only-vpn">VPN</span>
             </h5>
