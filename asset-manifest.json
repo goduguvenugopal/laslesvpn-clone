@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/laslesvpn-clone/static/css/main.21163c67.css",
+    "main.js": "/laslesvpn-clone/static/js/main.57943e68.js",
+    "static/media/slick.svg": "/laslesvpn-clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/laslesvpn-clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/laslesvpn-clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/laslesvpn-clone/index.html",
+    "static/media/slick.woff": "/laslesvpn-clone/static/media/slick.295183786cd8a1389865.woff",
+    "main.21163c67.css.map": "/laslesvpn-clone/static/css/main.21163c67.css.map",
+    "main.57943e68.js.map": "/laslesvpn-clone/static/js/main.57943e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21163c67.css",
+    "static/js/main.57943e68.js"
+  ]
+}
