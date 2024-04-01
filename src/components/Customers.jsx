@@ -24,10 +24,12 @@ const Customers = () => {
       <div className="container pb-5">
         <div className="">
           <h5 className="customers-heading">
-            Trusted by Thousands of<br/> Happy Customer
+            Trusted by Thousands of
+            <br /> Happy Customer
           </h5>
           <p className="customers-para">
-            These are the stories of our customers who have joined us with great<br/>
+            These are the stories of our customers who have joined us with great
+            <br />
             pleasure when using this crazy feature.
           </p>
         </div>
@@ -162,7 +164,6 @@ const Customers = () => {
               </div>
               <div className="pt-4">
                 <h4 className="comment-text">
-                  
                   “This is very unusual for my business that currently requires
                   a virtual private network that has high security.”.
                 </h4>
@@ -188,28 +189,36 @@ const Customers = () => {
               </div>
               <div className="pt-4">
                 <h4 className="comment-text">
-                   
                   “I like it because I like to travel far and still can connect
                   with high speed.”.
                 </h4>
               </div>
             </div>
           </Slider>
-         
         </div>
         <div className="pt-2" style={{ textAlign: "center" }}>
-            <img  onClick={previous} src="/images/left.jpg"  alt="" className="left-bt" id="left-bt"/>
-            <img src="/images/right.jpg" className="right-bt" onClick={next} />
-          </div>
-          <div className="px-5 mt-5  shadow  subscribe-main-card">
-        <div className="">
-            <h5 className="subscribe-heading">Subscribe Now for<br/> Get Special Features!</h5>
-            <h5 className="subscribe-para">Let's subscribe with us and find the fun.</h5>
+          <img
+            onClick={previous}
+            src="/images/left.jpg"
+            alt=""
+            className="left-bt"
+            id="left-bt"
+          />
+          <img src="/images/right.jpg" className="right-bt" onClick={next} />
         </div>
-        <button className="subscribe-btn">Subscribe Now</button>
+        <div className="px-5 mt-5  shadow  subscribe-main-card">
+          <div className="">
+            <h5 className="subscribe-heading">
+              Subscribe Now for
+              <br /> Get Special Features!
+            </h5>
+            <h5 className="subscribe-para">
+              Let's subscribe with us and find the fun.
+            </h5>
+          </div>
+          <button className="subscribe-btn">Subscribe Now</button>
+        </div>
       </div>
-      </div>
-      
     </>
   );
 };

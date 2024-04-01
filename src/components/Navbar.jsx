@@ -36,7 +36,7 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav m-auto mb-2 mb-lg-0">
               <li className="nav-item" id="nav-names">
-                <a className="nav-link active" aria-current="page" href="#">
+                <a className="nav-link " aria-current="page" href="#">
                   About
                 </a>
               </li>

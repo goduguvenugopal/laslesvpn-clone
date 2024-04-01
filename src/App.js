@@ -16,7 +16,7 @@ function App() {
       <Prices />
       <Locations />
       <Customers />
-      <Footer/>
+      <Footer />
     </>
   );
 }

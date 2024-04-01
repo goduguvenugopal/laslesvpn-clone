@@ -8,14 +8,17 @@ const Footer = () => {
       <div className="footer-card">
         <div className="container">
           <div className="row pt-5">
-             
             <div className="col-12 col-md-6 pb-3">
               <div className="footer-card1">
                 <div
                   className="navbar-brand d-flex align-items-center bg-dange"
                   href="#"
                 >
-                  <img className="footer-logo-img" src="/images/icon.jpg" alt="" />
+                  <img
+                    className="footer-logo-img"
+                    src="/images/icon.jpg"
+                    alt=""
+                  />
                   <h5 className="vpn-name">
                     Lasles<span className="only-vpn">VPN</span>
                   </h5>
@@ -74,7 +77,7 @@ const Footer = () => {
                   </div>
                 </div>
                 <h4 className="copyright">
-                Venugopal ©2024 Lasles<span className="spanvpn">VPN</span>
+                  Venugopal ©2024 Lasles<span className="spanvpn">VPN</span>
                 </h4>
               </div>
             </div>
@@ -90,25 +93,22 @@ const Footer = () => {
               </div>
             </div>
             <div className="col-4 col-md-2">
-            <div className="footer-card2">
+              <div className="footer-card2">
                 <h4 className="footer-card2-heading">Engage</h4>
                 <h5 className="heading-para">LaslesVPN?</h5>
                 <h5 className="heading-para">Tutorials</h5>
                 <h5 className="heading-para">About Us</h5>
                 <h5 className="heading-para">Privacy Policy</h5>
                 <h5 className="heading-para">Terms of Service</h5>
-               
               </div>
             </div>
             <div className="col-4 col-md-2">
-            <div className="footer-card2">
+              <div className="footer-card2">
                 <h4 className="footer-card2-heading">EarnMoney</h4>
                 <h5 className="heading-para">Affilate</h5>
                 <h5 className="heading-para">Become Partner</h5>
-                 
               </div>
-           
-          </div>
+            </div>
           </div>
         </div>
       </div>
