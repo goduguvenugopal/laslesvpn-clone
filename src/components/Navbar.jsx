@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="container">
           <div
             className="navbar-brand d-flex align-items-center bg-dange"
-            href="#"
+            
           >
             <img className="logo-img" src="/images/icon.jpg" alt="" />
             <h5 className="vpn-name">
@@ -36,29 +36,29 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav m-auto mb-2 mb-lg-0">
               <li className="nav-item" id="nav-names">
-                <a className="nav-link " aria-current="page" href="#">
+                <h6 className="nav-link " aria-current="page"  >
                   About
-                </a>
+                </h6>
               </li>
               <li className="nav-item" id="nav-names">
-                <a className="nav-link" href="#">
+                <h6 className="nav-link"  >
                   Features
-                </a>
+                </h6>
               </li>
               <li className="nav-item" id="nav-names">
-                <a className="nav-link" href="#">
+                <h6 className="nav-link"  >
                   Pricing
-                </a>
+                </h6>
               </li>
               <li className="nav-item" id="nav-names">
-                <a className="nav-link" href="#">
+                <h6 className="nav-link"  >
                   Testimonials
-                </a>
+                </h6>
               </li>
               <li className="nav-item" id="nav-names">
-                <a className="nav-link" href="#">
+                <h6 className="nav-link"  >
                   help
-                </a>
+                </h6>
               </li>
             </ul>
             <div>

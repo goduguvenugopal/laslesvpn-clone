@@ -112,7 +112,7 @@ const Customers = () => {
               </div>
               <div className="pt-4">
                 <h4 className="comment-text">
-                  {" "}
+                
                   “I like it because I like to travel far and still can connect
                   with high speed.”.
                 </h4>
@@ -204,7 +204,7 @@ const Customers = () => {
             className="left-bt"
             id="left-bt"
           />
-          <img src="/images/right.jpg" className="right-bt" onClick={next} />
+          <img src="/images/right.jpg" alt="" className="right-bt" onClick={next} />
         </div>
         <div className="px-5 mt-5  shadow  subscribe-main-card">
           <div className="">
