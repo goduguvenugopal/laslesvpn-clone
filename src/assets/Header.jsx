@@ -64,7 +64,7 @@ const Header = () => {
               style={{ borderRight: "none", borderBottom: "none" }}
             >
               <div className="d-flex">
-                <img src="/images/server.jpg" className="user-img" alt="" />
+                <img src="/images/Server.jpg" className="user-img" alt="" />
                 <div className="" style={{ height: "60px", width: "54px" }}>
                   <h5 className="rating-text">50+</h5>
                   <h5 className="servers-text">Servers</h5>

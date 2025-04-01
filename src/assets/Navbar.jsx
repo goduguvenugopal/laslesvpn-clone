@@ -17,7 +17,7 @@ const Navbar = () => {
             className="navbar-brand d-flex align-items-center bg-dange"
             
           >
-            <img className="logo-img" src="/images/icon.jpg" alt="" />
+            <img className="logo-img" src="/images/icon.jpg" alt="logo" />
             <h5 className="vpn-name">
               Lasles<span className="only-vpn">VPN</span>
             </h5>
@@ -85,13 +85,13 @@ const Navbar = () => {
         class="modal fade"
         id="exampleModal1"
         tabindex="-1"
-        aria-labelledby="exampleModalLabel"
+        aria-labelledby="exampleModalLabel1"
         aria-hidden="true"
       >
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLabel">
+              <h5 class="modal-title" id="exampleModalLabel1">
                 Sign In
               </h5>
               <button

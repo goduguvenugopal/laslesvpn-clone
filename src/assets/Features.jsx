@@ -11,7 +11,7 @@ const Features = () => {
           <div className="col-12 col-md-6">
             <div className="">
               <img
-                src="/images/illustration2.jpg"
+                src="/images/Illustration2.jpg"
                 className="illustration2"
                 alt=""
               />

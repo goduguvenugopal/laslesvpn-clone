@@ -64,7 +64,7 @@ const Prices = () => {
             <div className="col col-md-4">
               <div className="prices-card">
                 <div className="" style={{ height: "25rem" }}>
-                  <img src="/images/standard.jpg" className="free-img" alt="" />
+                  <img src="/images/Standard.jpg" className="free-img" alt="" />
                   <h5 className="free-text">Standard plan</h5>
 
                   <div className="d-flex align-items-center">
